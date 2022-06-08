@@ -1,0 +1,13 @@
+package com.security.springboot.security.learn;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootSecurityLearnApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringbootSecurityLearnApplication.class, args);
+	}
+
+}
