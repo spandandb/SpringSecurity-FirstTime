@@ -6,4 +6,4 @@ When in Command Prompt :
 
 mvnw spring-boot:run 
 
-will the run the following program
+will the run the following spring application.
